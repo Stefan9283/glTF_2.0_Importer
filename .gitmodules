@@ -1,0 +1,12 @@
+[submodule "Dependencies/vendor/glm"]
+	path = Dependencies/vendor/glm
+	url = https://github.com/g-truc/glm
+[submodule "Dependencies/vendor/imgui"]
+	path = Dependencies/vendor/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "Dependencies/vendor/glad"]
+	path = Dependencies/vendor/glad
+	url = https://github.com/Dav1dde/glad
+[submodule "Dependencies/vendor/glfw"]
+	path = Dependencies/vendor/glfw
+	url = https://github.com/glfw/glfw
