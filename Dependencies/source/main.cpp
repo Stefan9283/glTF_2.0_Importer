@@ -6,8 +6,6 @@
 
 #include <glTFImporter.h>
 
-
-
 int main()
 {
     // Binary Gizmo5.bin

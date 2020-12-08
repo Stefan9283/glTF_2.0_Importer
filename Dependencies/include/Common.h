@@ -5,7 +5,6 @@
 #ifndef GLTF_2_0_IMPORTER_COMMON_H
 #define GLTF_2_0_IMPORTER_COMMON_H
 
-
 #include <iostream>
 #include <vector>
 #include <string>
